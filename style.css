@@ -99,15 +99,11 @@ header {
   height: 30px;
   color: black;
   font-size: larger;
-  border:0px;
+  border:3px;
   border-radius: 25px;
 
 }
-.opp:hover{
-  border-radius: 25px;
-  border: 2px;
-  background-color: #c2185b;
-}
+
 .logoo{
   width: 70px;
   height: 70px;
